@@ -64,7 +64,7 @@ export default function () {
 
 ### Color and background color
 
-```SnackPlayer name=Color%20and%20background%20COolor
+```SnackPlayer name=Color%20and%20background%20Color
 import React from 'react';
 import { Box as NBBox, NativeBaseProvider, Center, Text } from 'native-base';
 
